@@ -8,9 +8,9 @@ En el archivo se encuentran los códigos que se utilizaron para su desarrollo en
 y Android Studio, así como el diagrama de conexión de los componentes usados.
 
 Lista de materiales
-  Arduino Uno
-  Modulo Bluetooth HC-06
-  Celda de Carga 2kg 
-  Modulo HX711
+  -Arduino Uno
+  -Modulo Bluetooth HC-06
+  -Celda de Carga 2kg 
+  -Modulo HX711
   
 **Los materiales pueden variar según las necesidades.
